@@ -19,7 +19,7 @@ BIT BY BIT 4기 - Java 는,
     <td style="border: 0.5px solid gray;">
       <a href="https://github.com/donginLee">
         <img src="https://avatars.githubusercontent.com/donginLee" width="130px;" alt="">
-        <br><b>이동인</b>(스터디장)
+        <br><b>이동인✨</b>
       </a>
     </td>
     <td style="border: 0.5px solid gray;">
