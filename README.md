@@ -24,7 +24,7 @@ BIT BY BIT 4기 - Java 는,
     </td>
     <td style="border: 0.5px solid gray;">
       <a href="https://github.com/gbgreenbravo">
-        <img src="https://avatars.githubusercontent.com/gbgreenbravo width="130px;" alt="">
+        <img src="https://avatars.githubusercontent.com/gbgreenbravo" width="130px;" alt="">
         <br><b>김민협</b>
       </a>
               <td style="border: 0.5px solid gray;">
