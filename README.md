@@ -35,8 +35,8 @@ BIT BY BIT 4기 - Java 는,
     </td>
     </td>
         <td style="border: 0.5px solid gray;">
-      <a href="https://github.com/snow9802">
-        <img src="https://avatars.githubusercontent.com/snow9802" width="130px;" alt="">
+      <a href="https://github.com/bty41673662">
+        <img src="https://avatars.githubusercontent.com/bty41673662" width="130px;" alt="">
         <br><b>배태용</b>
       </a>
     </td>
