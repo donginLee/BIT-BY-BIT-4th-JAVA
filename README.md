@@ -29,7 +29,7 @@ BIT BY BIT 4기 - Java 는,
       </a>
               <td style="border: 0.5px solid gray;">
       <a href="[https://github.com/qkrtudwkd](https://github.com/qkrtudwkd)">
-        <img src="https://avatars.githubusercontent.com/qkrtndwkd" width="130px;" alt="">
+        <img src="https://avatars.githubusercontent.com/qkrtudwkd" width="130px;" alt="">
         <br><b>박수영</b>
       </a>
     </td>
