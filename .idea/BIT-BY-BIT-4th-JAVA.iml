@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/중급1/Object-클래스/문제1/문제1_배태용" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/중급1/String-클래스/문제1/문제1_배태용" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/중급1/String-클래스/문제2/문제2_배태용" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/중급1/불변객체/문제1/문제1_배태용" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/중급1/String-클래스/문제10/문제10_배태용" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/중급1/String-클래스/문제11/문제11_배태용" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/중급1/String-클래스/문제3/문제3_배태용" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/중급1/String-클래스/문제4/문제4_배태용" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/중급1/String-클래스/문제5/문제5_배태용" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/중급1/String-클래스/문제6/문제6_배태용" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/중급1/String-클래스/문제7/문제7_배태용" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/중급1/String-클래스/문제8/문제8_배태용" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/중급1/String-클래스/문제9/문제9_배태용" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/중급1/래퍼-Class-클래스/문제1/문제1_배태용" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/중급1/래퍼-Class-클래스/문제2/문제2_배태용" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/중급1/래퍼-Class-클래스/문제3/문제3_배태용" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/중급1/래퍼-Class-클래스/문제4/문제4_배태용" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/중급1/래퍼-Class-클래스/문제5/문제5_배태용" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/중급1/열거형-ENUM/문제1/문제1_배태용" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/중급1/열거형-ENUM/문제2/문제2_배태용" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
