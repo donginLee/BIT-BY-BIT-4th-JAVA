@@ -83,7 +83,7 @@ public class ImmutableMyDate {
         this.day = day;
     }
     
-    // with 메서드: 수정사항을 포함하는 객체의 새 인스턴스를 반환하는 메서드
+    // with 메서드: 일반적으로 원본 객체는 그대로 유지하고 변경사항을 포함하는 객체의 새 인스턴스를 반환하는 메서드를 의미함
     public ImmutableMyDate withYear(int newYear) {
         return new ImmutableMyDate(newYear, month, day);
     }
