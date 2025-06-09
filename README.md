@@ -22,6 +22,13 @@ BIT BY BIT 4기 - Java 는,
         <br><b>이동인✨</b>
       </a>
     </td>
+     </td>
+        <td style="border: 0.5px solid gray;">
+      <a href="https://github.com/bty41673662">
+        <img src="https://avatars.githubusercontent.com/bty41673662" width="130px;" alt="">
+        <br><b>김동규</b>
+      </a>
+    </td>
     <td style="border: 0.5px solid gray;">
       <a href="https://github.com/gbgreenbravo">
         <img src="https://avatars.githubusercontent.com/gbgreenbravo" width="130px;" alt="">
@@ -40,7 +47,13 @@ BIT BY BIT 4기 - Java 는,
         <br><b>배태용</b>
       </a>
     </td>
-    
+     </td>
+        <td style="border: 0.5px solid gray;">
+      <a href="https://github.com/celpegor216">
+        <img src="https://avatars.githubusercontent.com/celpegor216" width="130px;" alt="">
+        <br><b>조예지</b>
+      </a>
+    </td>
   </tr>
   <tr>
     <td colspan="4" style="border: 0.5px solid gray;"><b>BIT BY BIT - 4기 - Java </b></td>
@@ -93,12 +106,13 @@ BIT BY BIT 4기 - Java 는,
 │   ...   
 │   └── 예외-처리 # 2일차 발표 내용
 │       ├── 문제1
-|       |      ├── 문제1_이동인.cpp
-|       |      └── 문제1_박수영.cpp
+|       |      ├── 문제1_이동인
+|       |      |      └── 문제1_이동인.java
+|       |      └── 문제1_박수영.java
 |       ...
 │       ├── 문제3
-|              ├── 문제3_이동인.cpp
-|              └── 문제3_박수영.cpp
+|              ├── 문제3_이동인.java
+|              └── 문제3_박수영.java
 |
 ...
 
